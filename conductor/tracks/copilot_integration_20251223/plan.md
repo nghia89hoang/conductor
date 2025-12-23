@@ -9,7 +9,7 @@
   - [x] Sub-task: Document the structure and format of `product.md`, `tech-stack.md`, `plan.md`, and other context files.
 - [x] Task: Conductor - User Manual Verification 'Research' (Protocol in workflow.md)
 
-## Phase 2: Strategy Definition
+## Phase 2: Strategy Definition [checkpoint: 15fafb5]
 
 - [x] Task: Define a high-level integration architecture. (8cbc6d0)
   - [x] Sub-task: Create a diagram showing how Conductor and Copilot would interact.
@@ -18,7 +18,7 @@
   - [x] Sub-task: Describe how a user would initiate a Conductor-powered Copilot session.
   - [x] Sub-task: Detail how context would be used during code generation.
 - [x] Task: Identify risks and mitigation strategies. (c778d47)
-- [ ] Task: Conductor - User Manual Verification 'Strategy Definition' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Strategy Definition' (Protocol in workflow.md)
 
 ## Phase 3: PoC Planning
 
