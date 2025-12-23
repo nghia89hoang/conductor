@@ -1,13 +1,13 @@
 # Plan: Research and Define Initial Integration Strategy for GitHub Copilot
 
-## Phase 1: Research
+## Phase 1: Research [checkpoint: c490938]
 
 - [x] Task: Investigate GitHub Copilot's extensibility model. (0877be8)
   - [x] Sub-task: Review official documentation for APIs, SDKs, and plugin systems.
   - [x] Sub-task: Search for existing third-party integrations to understand common patterns.
 - [x] Task: Analyze Conductor's context artifacts. (d0f2f02)
   - [x] Sub-task: Document the structure and format of `product.md`, `tech-stack.md`, `plan.md`, and other context files.
-- [ ] Task: Conductor - User Manual Verification 'Research' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Research' (Protocol in workflow.md)
 
 ## Phase 2: Strategy Definition
 
